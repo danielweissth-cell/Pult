@@ -81,7 +81,7 @@ Arduino отримує байти через Bluetooth і порівнює їх 
 
 ## 🔍 Як отримати свої IR-коди
 
-1. Використовуй мій інший скрипт з бібліотекою IRremote:<link>
+1. Використовуй мій інший скрипт з бібліотекою IRremote:[link](https://github.com/danielweissth-cell/IRreceiver)
 2. Підключи IR-приймач до Arduino  
 3. Відкрий Serial Monitor  
 4. Натискай кнопки на пульті  
